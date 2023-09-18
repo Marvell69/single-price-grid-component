@@ -1,6 +1,6 @@
 # Frontend Mentor - Single price grid component solution
 
-This is a solution to the [Single price grid component challenge on Frontend Mentor](https://github.com/Marvell69/single-price-grid-component.git). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
+This is a solution to the [Single price grid component challenge on Frontend Mentor](https://github.com/Marvell69/single-price-grid-component2.git). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
 ## Table of contents
 
@@ -23,7 +23,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/Marvell69/single-price-grid-component.git)
+- Solution URL: [Add solution URL here](https://github.com/Marvell69/single-price-grid-component2.git)
 
 ## My process
 
